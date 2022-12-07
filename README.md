@@ -29,7 +29,7 @@ SO THAT our sites are attractive to viewers and hold attention
 
 ## Installation
 
-This is a basic static front-end website deployment which can be deployed on any server or client with a browser. [The GIThub page deployment](https://essexgit.github.io/WebPortfolio/)
+This is a basic static front-end website deployment which can be deployed on any server or client with a browser. [The GIThub page deployment](https://essexgit.github.io/Kute_blob2sheep/)
 
 ## Credits
 
