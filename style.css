@@ -1,0 +1,42 @@
+*,
+*::before,
+*::after * {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #e0e0e0;
+    font-family: 'niteclub';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    margin: 0 auto;
+}
+
+.blob {
+    display: inline-block;
+    position: relative;
+    width: 25em;
+    height: 25em;
+    box-sizing: inherit;
+    z-index: -1;
+
+}
+
+.content {
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    vertical-align: center;
+}
+
+.content h1 {
+    mix-blend-mode: difference;
+    color: #fff;
+    font-size: 100px;
+    font-weight: lighter;
+
+}
