@@ -33,6 +33,8 @@ This is a basic static front-end website deployment which can be deployed on any
 
 ## Credits
 
+Original Blob animation tutorial: [Taimoor Shahzada](https://youtu.be/O4vSIMFtonM)
+
 Learn about the [KUTE.JS animation engine](https://thednp.github.io/kute.js/)
 
 The 'Black Sheep' is the logo of the [BBH agency](https://www.bartleboglehegarty.com/) and the SVG is taken from their website - not to be used for commercial purposes.
